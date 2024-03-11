@@ -1,0 +1,14 @@
+Warning: Width correction constrained.  The width correction value must be in the range of [0.0000000394 in; 0.007873976378 in] for the current design rules.
+Plotted to '/Users/rudra/Desktop/ArduinoNano _Rudra_2021eeb1208/ArduinoNano _Rudra_2021eeb1208-F_Cu.gbr'.
+Plotted to '/Users/rudra/Desktop/ArduinoNano _Rudra_2021eeb1208/ArduinoNano _Rudra_2021eeb1208-In1_Cu.gbr'.
+Plotted to '/Users/rudra/Desktop/ArduinoNano _Rudra_2021eeb1208/ArduinoNano _Rudra_2021eeb1208-In2_Cu.gbr'.
+Plotted to '/Users/rudra/Desktop/ArduinoNano _Rudra_2021eeb1208/ArduinoNano _Rudra_2021eeb1208-B_Cu.gbr'.
+Plotted to '/Users/rudra/Desktop/ArduinoNano _Rudra_2021eeb1208/ArduinoNano _Rudra_2021eeb1208-F_Paste.gbr'.
+Plotted to '/Users/rudra/Desktop/ArduinoNano _Rudra_2021eeb1208/ArduinoNano _Rudra_2021eeb1208-B_Paste.gbr'.
+Plotted to '/Users/rudra/Desktop/ArduinoNano _Rudra_2021eeb1208/ArduinoNano _Rudra_2021eeb1208-F_Silkscreen.gbr'.
+Plotted to '/Users/rudra/Desktop/ArduinoNano _Rudra_2021eeb1208/ArduinoNano _Rudra_2021eeb1208-B_Silkscreen.gbr'.
+Plotted to '/Users/rudra/Desktop/ArduinoNano _Rudra_2021eeb1208/ArduinoNano _Rudra_2021eeb1208-F_Mask.gbr'.
+Plotted to '/Users/rudra/Desktop/ArduinoNano _Rudra_2021eeb1208/ArduinoNano _Rudra_2021eeb1208-B_Mask.gbr'.
+Plotted to '/Users/rudra/Desktop/ArduinoNano _Rudra_2021eeb1208/ArduinoNano _Rudra_2021eeb1208-Edge_Cuts.gbr'.
+Created Gerber job file '/Users/rudra/Desktop/ArduinoNano _Rudra_2021eeb1208/ArduinoNano _Rudra_2021eeb1208-job.gbrjob'.
+Info: Done.
